@@ -3,7 +3,17 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Selectable
+  - FX
+  - Fruit
+  - Enemy
+  - Missile
+  - LoadingCurtain
+  - InitialPoint
+  - BuildingSpawner
+  - EnemySpawner
+  - Projectile
   layers:
   - Default
   - TransparentFX
@@ -13,18 +23,18 @@ TagManager:
   - UI
   - 
   - 
+  - Player
+  - Enemy
+  - Obstacle
+  - 
+  - Ground
+  - Interaction
   - 
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - Aggression Zone
+  - Attack Zone
+  - Pickup
+  - Projectile
   - 
   - 
   - 

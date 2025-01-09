@@ -1,0 +1,18 @@
+{
+  "name": "com.jcg.fpscounter",
+  "version": "1.0.1",
+  "displayName": "JCG Fps Counter",
+  "description": "Custom optimized fps counter\nAdd widget to Canvas -> Enjoy",
+  "unity": "2019.1",
+  "unityRelease": "0b5",
+  "keywords": [
+    "fps",
+    "counter",
+    "tools"
+  ],
+  "author": {
+    "name": "RuslanAlife",
+    "email": "aliferuslan@gmail.com",
+    "url": "https://www.unity3d.com"
+  }
+}
